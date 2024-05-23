@@ -7,5 +7,5 @@ Setup:
   - installing antd design 
   - next js routing 
   - including some antd design concepts like layouts, menus, tables, cards, icons, progress, ratings.
-  - 
+ 
 #tailwindcss #nextjs14 #antd
